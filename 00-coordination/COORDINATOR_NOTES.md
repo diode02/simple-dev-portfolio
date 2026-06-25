@@ -22,3 +22,20 @@
 - Verification method: Authenticated GitHub REST API request using local git credentials.
 - Visibility: private
 - Result: Repository was already private; no visibility change was needed.
+
+## GitHub Public Visibility Verification
+
+- Date: 2026-06-25
+- Repository: https://github.com/diode02/simple-dev-portfolio
+- Verification method: Authenticated GitHub REST API request using local git credentials.
+- Visibility: public
+- Result: Repository is public; no visibility change was needed because GitHub already reported `private: false`.
+
+## GitHub Public Visibility Update
+
+- Date: 2026-06-25
+- Repository: https://github.com/diode02/simple-dev-portfolio
+- Verification method: Authenticated GitHub REST API request using local git credentials.
+- Previous visibility: private
+- Updated visibility: public
+- Result: Repository visibility was changed to public and confirmed public after the change.

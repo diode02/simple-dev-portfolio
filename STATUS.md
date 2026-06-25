@@ -21,3 +21,5 @@ Notes:
 - QA completed and approved.
 - Private GitHub repository created/verified and pushed: https://github.com/diode02/simple-dev-portfolio
 - GitHub privacy verified on 2026-06-25 via authenticated API: repository is private; no visibility change was needed.
+- GitHub public visibility verified on 2026-06-25 via authenticated API: repository is public; no visibility change was needed.
+- GitHub visibility updated on 2026-06-25 via authenticated API: repository changed from private to public and confirmed public.
